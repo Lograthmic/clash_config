@@ -1,17 +1,2 @@
-socks://
-
-{
-	"v": "2",
-	"ps": "easyconnect-xquant",
-	"add": "192.168.0.115",
-	"port": "1080",
-	"id": "c266e284-7bd2-1899-47bc-669a885d8f41",
-	"aid": "100",
-	"scy": "zero",
-	"net": "tcp",
-	"type": "none",
-	"host": "",
-	"path": "",
-	"tls": "",
-	"sni": ""
-}
+tg://socks5?server=192.168.0.115&port=1080&remarks=easyconnect-xquant
+tg://socks5?server=192.168.0.115&port=1081&remarks=easyconnect-gkzq
