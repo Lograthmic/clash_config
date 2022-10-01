@@ -1,6 +1,5 @@
-IP-CIDR,191.168.0.0/16,🌏 VPN,no-resolve
-IP-CIDR,172.19.0.0/16,🌏 VPN,no-resolve
-IP-CIDR,10.50.0.0/16,🌏 VPN,no-resolve
-DOMAIN,svn01.xquant.com,🌏 VPN,no-resolve
-DOMAIN,jira.xquant.com,🌏 VPN,no-resolve
-DOMAIN-SUFFIX,yahoo.com,🌍 国外媒体,no-resolve
+IP-CIDR,191.168.0.0/16,no-resolve
+IP-CIDR,172.19.0.0/16,no-resolve
+IP-CIDR,10.50.0.0/16,no-resolve
+DOMAIN,svn01.xquant.com,no-resolve
+DOMAIN,jira.xquant.com,no-resolve
