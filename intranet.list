@@ -2,3 +2,5 @@ IP-CIDR,191.168.0.0/16,no-resolve
 IP-CIDR,172.19.0.0/16,no-resolve
 IP-CIDR,10.50.0.0/16,no-resolve
 IP-CIDR,198.18.0.0/16,no-resolve
+DOMAIN,jira.xquant.com,🌏 VPN,no-resolve
+DOMAIN,ftp.xquant.com,🌏 VPN,no-resolve
